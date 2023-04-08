@@ -8,10 +8,10 @@
             "Óra": 0,
             "ÓraKezdete": "7:00",
             "ÓraVége": "7:40",
-            "Tantárgy": "-",
-            "TeremAzonositó": "-",
-            "Terem": "-",
-            "TanárAzononosító": "-"
+            "Tantárgy": "...",
+            "TeremAzonositó": "...",
+            "Terem": "...",
+            "TanárAzononosító": "..."
         },
 
         {
@@ -92,10 +92,10 @@
             "Óra": 0,
             "ÓraKezdete": "7:00",
             "ÓraVége": "7:40",
-            "Tantárgy": "-",
-            "TeremAzonositó": "-",
-            "Terem": "-",
-            "TanárAzononosító": "-"
+            "Tantárgy": "...",
+            "TeremAzonositó": "...",
+            "Terem": "...",
+            "TanárAzononosító": "..."
         },
 
         {
@@ -175,10 +175,10 @@
             "Óra": 0,
             "ÓraKezdete": "7:00",
             "ÓraVége": "7:40",
-            "Tantárgy": "-",
-            "TeremAzonositó": "-",
-            "Terem": "-",
-            "TanárAzononosító": "-"
+            "Tantárgy": "...",
+            "TeremAzonositó": "...",
+            "Terem": "...",
+            "TanárAzononosító": "..."
         },
 
         {
@@ -258,10 +258,10 @@
             "Óra": 0,
             "ÓraKezdete": "7:00",
             "ÓraVége": "7:40",
-            "Tantárgy": "-",
-            "TeremAzonositó": "-",
-            "Terem": "-",
-            "TanárAzononosító": "-"
+            "Tantárgy": "...",
+            "TeremAzonositó": "...",
+            "Terem": "...",
+            "TanárAzononosító": "..."
         },
 
         {
@@ -352,10 +352,10 @@
             "Óra": 0,
             "ÓraKezdete": "7:00",
             "ÓraVége": "7:40",
-            "Tantárgy": "-",
-            "TeremAzonositó": "-",
-            "Terem": "-",
-            "TanárAzononosító": "-"
+            "Tantárgy": "...",
+            "TeremAzonositó": "...",
+            "Terem": "...",
+            "TanárAzononosító": "..."
         },
 
         {
@@ -393,7 +393,7 @@
             "ÓraKezdete": "10:36",
             "ÓraVége": "11:20",
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
-            "TeremAzonositó": "FS6",
+            "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
             "TanárAzononosító": "NAS"
         },
@@ -403,7 +403,7 @@
             "ÓraKezdete": "11:30",
             "ÓraVége": "12:15",
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
-            "TeremAzonositó": "FS6",
+            "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
             "TanárAzononosító": "NAS"
         },
@@ -413,7 +413,7 @@
             "ÓraKezdete": "12:25",
             "ÓraVége": "13:10",
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
-            "TeremAzonositó": "FS6",
+            "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
             "TanárAzononosító": "NAS"
         },
@@ -423,24 +423,13 @@
             "ÓraKezdete": "13:15",
             "ÓraVége": "14:00",
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
-            "TeremAzonositó": "FS6",
+            "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
             "TanárAzononosító": "NAS"
         }
-    ],
-
-    "TanárAzonosító": 
-    [
-        { "Azonosító" : "JAT", "TeljesNév": "Janics Tamás" },
-        { "Azonosító" : "CRR", "TeljesNév": "Csordás Rácz Réka" },
-        { "Azonosító" : "NAS", "TeljesNév": "Nádori Sándor" },
-        { "Azonosító" : "MAA", "TeljesNév": "Siposné Majtényi Andrea" },
-        { "Azonosító" : "PEL", "TeljesNév": "Petercsák Lórántné" },
-        { "Azonosító" : "VIM", "TeljesNév": "Vincze Marianna" },
-        { "Azonosító" : "GEM", "TeljesNév": "igen" }
-
     ]
 
+   
 
 
 }
