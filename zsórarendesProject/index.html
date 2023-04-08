@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>próba</title>
+</head>
+<body onload="logJSONData()">
+    <p id="asd"></p>
+
+    <script>
+
+    var orarend;    
+
+    //megszerezzük a json file tartalmát
+    async function logJSONData() {
+    const response = await fetch("orarend.json");
+    orarend = await response.json();
+
+    //kiiratjuk a json file egyes elemeit   orarend(a fálj tartalma).Hétfő(nap)[hanyadik óra].egyébb hozzá tartozó elemek pl tantárgy neve
+    for (let i= 0; i <= 7; i++) {
+   console.log(orarend.Hétfő[i].Tantárgy + " " + orarend.Hétfő[i].Óra + ". óra");
+    }
+}
+
+
+    </script>
+</body>
+</html>
