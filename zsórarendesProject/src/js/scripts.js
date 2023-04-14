@@ -23,7 +23,7 @@
 
 
 ////////////////////////////////////////////////////////////////////// Táblázat létrehozása //////////////////////////////////////////////////////////////////////////////////
-/*
+
 //létrehozunk egy táblázatot a json fájlunkból
     function createTable(){
 
@@ -74,10 +74,10 @@
 
 
     }    
-    */
+    
     function load(){
         orarendAdatai();
         orarendAlapAdatok();
-      //  createTable();
+       createTable();
 
     }
