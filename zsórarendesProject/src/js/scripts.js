@@ -1,26 +1,23 @@
 
-
-
     var táblázat = document.getElementById("Táblázat");
-
+    var orarend ;
+    var orarendAdatok ;
 
     //megszerezzük a json file tartalmát
     async function orarendAdatai() {
         const response = await fetch("./json/orarend.json");
         var orarendbeta = await response.json();
-        return orarendbeta;
+       orarend = orarendbeta;
 
     }   
 
     async function orarendAlapAdatok(){
         const response2 = await fetch("./json/orarendkeszito.json");
         var orarendAdatokbeta = await response2.json();
-        return orarendAdatokbeta;
+        orarendAdatok = orarendAdatokbeta;
 
     }
 
-    var orarend = orarendAdatai();
-    var orarendAdatok = orarendAlapAdatok();
 
     console.log(orarend.Hétfő[1].Tantárgy);
 
