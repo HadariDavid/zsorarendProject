@@ -12,7 +12,7 @@
             "Tantárgy": "...",
             "TeremAzonositó": "...",
             "Terem": "...",
-            "TanárAzononosító": "..."
+            "TanárAzonosító": "..."
         },
 
         {
@@ -22,7 +22,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzononosító":"JAT"
+            "TanárAzonosító":"JAT"
             
         },
 
@@ -33,7 +33,7 @@
             "Tantárgy": "Adatbázis kezelés 1",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "CRR"
+            "TanárAzonosító": "CRR"
         },
 
         {
@@ -43,7 +43,7 @@
             "Tantárgy": "Asztali alkalmazások",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -53,7 +53,7 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "CRR"
+            "TanárAzonosító": "CRR"
         },
 
         {
@@ -63,7 +63,7 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "CRR"
+            "TanárAzonosító": "CRR"
         },
 
         {
@@ -73,7 +73,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -83,7 +83,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         }
     ],
 
@@ -96,7 +96,7 @@
             "Tantárgy": "...",
             "TeremAzonositó": "...",
             "Terem": "...",
-            "TanárAzononosító": "..."
+            "TanárAzonosító": "..."
         },
 
         {
@@ -106,7 +106,7 @@
             "Tantárgy": "Szoftvertesztelés",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -116,7 +116,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE1",
             "Terem": "Szaképző emelet 1.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -126,7 +126,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -136,7 +136,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "EM4",
             "Terem": "Emelet 4",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -146,7 +146,7 @@
             "Tantárgy": "Web programozás",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -156,7 +156,7 @@
             "Tantárgy": "Szoftverfejlesztés",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -166,7 +166,7 @@
             "Tantárgy": "Osztályfőnöki",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         }
     ],
 
@@ -179,7 +179,7 @@
             "Tantárgy": "...",
             "TeremAzonositó": "...",
             "Terem": "...",
-            "TanárAzononosító": "..."
+            "TanárAzonosító": "..."
         },
 
         {
@@ -189,7 +189,7 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -199,7 +199,7 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -209,7 +209,7 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -219,7 +219,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -229,7 +229,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -239,7 +239,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -249,7 +249,7 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "CRR"
+            "TanárAzonosító": "CRR"
         }
     ],
 
@@ -262,7 +262,7 @@
             "Tantárgy": "...",
             "TeremAzonositó": "...",
             "Terem": "...",
-            "TanárAzononosító": "..."
+            "TanárAzonosító": "..."
         },
 
         {
@@ -272,7 +272,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE3",
             "Terem": "Szaképző emelet 3.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -282,7 +282,7 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE3",
             "Terem": "Szaképző emelet 3.",
-            "TanárAzononosító": "JAT"
+            "TanárAzonosító": "JAT"
         },
 
         {
@@ -294,7 +294,7 @@
             "Tantárgy": "Református hittan",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "VIM"
+            "TanárAzonosító": "VIM"
         },
 
         {
@@ -304,7 +304,7 @@
             "Tantárgy": "Web programozás",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -314,7 +314,7 @@
             "Tantárgy": "Szoftverfejlesztés",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -324,7 +324,7 @@
             "Tantárgy": "Szakmai angol",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "PEL"
+            "TanárAzonosító": "PEL"
         },
 
         {
@@ -334,7 +334,7 @@
             "Tantárgy": "Szakmai angol",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzononosító": "PEL"
+            "TanárAzonosító": "PEL"
         }
     ],
 
@@ -347,7 +347,7 @@
             "Tantárgy": "...",
             "TeremAzonositó": "...",
             "Terem": "...",
-            "TanárAzononosító": "..."
+            "TanárAzonosító": "..."
         },
 
         {
@@ -357,7 +357,7 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -367,7 +367,7 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -377,7 +377,7 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzononosító": "MAA"
+            "TanárAzonosító": "MAA"
         },
 
         {
@@ -387,7 +387,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -397,7 +397,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -407,7 +407,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         },
 
         {
@@ -417,7 +417,7 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzononosító": "NAS"
+            "TanárAzonosító": "NAS"
         }
     ],
 
