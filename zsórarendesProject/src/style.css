@@ -2,6 +2,10 @@ body{
     padding-top: 0px;
 }
 
+th{
+    text-align: center !important;
+}
+
 td{
     padding: 3px !important;
     text-align: center !important;
@@ -9,9 +13,35 @@ td{
 
 #TableDiv{
     margin:0% 12% ;
+    position: absolute;
+    z-index: 0;
 }
 
 #menUl{
     margin-top: 0px;
     padding-top: 0px;
+}
+
+.infoDiv{
+    background-color: royalblue;
+    display: block;
+    position: absolute;
+    z-index: 1;
+
+    margin: 5% 15%;
+    padding: 3%;
+    width: 70vw;
+    height: 60vh;
+
+}
+
+.infoDiv h1{
+    text-align: center;
+}
+.infoDiv p{
+    text-align: center;
+}
+
+button{
+    margin: 3% 50%;
 }

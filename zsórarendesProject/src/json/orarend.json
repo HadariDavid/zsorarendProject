@@ -22,7 +22,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzonosító":"JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
             
         },
 
@@ -33,7 +34,8 @@
             "Tantárgy": "Adatbázis kezelés 1",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "CRR"
+            "TanárAzonosító":"CRR",
+            "TeljesNév": "Csordás Rácz Réka" 
         },
 
         {
@@ -43,7 +45,8 @@
             "Tantárgy": "Asztali alkalmazások",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -53,7 +56,8 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "CRR"
+            "TanárAzonosító":"CRR",
+            "TeljesNév": "Csordás Rácz Réka" 
         },
 
         {
@@ -63,7 +67,8 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "CRR"
+             "TanárAzonosító":"CRR",
+            "TeljesNév": "Csordás Rácz Réka" 
         },
 
         {
@@ -73,7 +78,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -83,7 +89,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         }
     ],
 
@@ -106,7 +113,8 @@
             "Tantárgy": "Szoftvertesztelés",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -116,7 +124,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE1",
             "Terem": "Szaképző emelet 1.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -126,7 +135,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -136,7 +146,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "EM4",
             "Terem": "Emelet 4",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -146,7 +157,8 @@
             "Tantárgy": "Web programozás",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -156,7 +168,8 @@
             "Tantárgy": "Szoftverfejlesztés",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -166,7 +179,8 @@
             "Tantárgy": "Osztályfőnöki",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         }
     ],
 
@@ -189,7 +203,8 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -199,7 +214,8 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -209,7 +225,8 @@
             "Tantárgy": "Szoftvertesztelés gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -219,7 +236,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -229,7 +247,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -239,7 +258,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F13",
             "Terem": "Földszint 13",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -249,7 +269,8 @@
             "Tantárgy": "Adatbázis kezelés 1 gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "CRR"
+             "TanárAzonosító":"CRR",
+            "TeljesNév": "Csordás Rácz Réka" 
         }
     ],
 
@@ -272,7 +293,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE3",
             "Terem": "Szaképző emelet 3.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -282,7 +304,8 @@
             "Tantárgy": "Web programozás Gyakorlat",
             "TeremAzonositó": "SE3",
             "Terem": "Szaképző emelet 3.",
-            "TanárAzonosító": "JAT"
+            "TanárAzonosító":"JAT",
+            "TeljesNév": "Janics Tamás"
         },
 
         {
@@ -294,7 +317,8 @@
             "Tantárgy": "Református hittan",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "VIM"
+            "TanárAzonosító":"VIM",
+            "TeljesNév": "Vincze Marianna"
         },
 
         {
@@ -304,7 +328,8 @@
             "Tantárgy": "Web programozás",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -314,7 +339,8 @@
             "Tantárgy": "Szoftverfejlesztés",
             "TeremAzonositó": "FS9",
             "Terem": "Földszint 9",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -324,7 +350,8 @@
             "Tantárgy": "Szakmai angol",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "PEL"
+            "TanárAzonosító":"PEL",
+            "TeljesNév": "Vincze Marianna"
         },
 
         {
@@ -334,7 +361,8 @@
             "Tantárgy": "Szakmai angol",
             "TeremAzonositó": "SF5",
             "Terem": "Szaképző földszint 5.",
-            "TanárAzonosító": "PEL"
+            "TanárAzonosító":"PEL",
+            "TeljesNév": "Vincze Marianna"
         }
     ],
 
@@ -357,7 +385,8 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -367,7 +396,8 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -377,7 +407,8 @@
             "Tantárgy": "Szoftverfejlesztés gyakorlat",
             "TeremAzonositó": "F12",
             "Terem": "Földszint 12",
-            "TanárAzonosító": "MAA"
+            "TanárAzonosító":"MAA",
+            "TeljesNév": "Siposné Majtényi Andrea"
         },
 
         {
@@ -387,7 +418,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -397,7 +429,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -407,7 +440,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         },
 
         {
@@ -417,7 +451,8 @@
             "Tantárgy": "Asztali alkalmazások fejlesztése gyakorlat",
             "TeremAzonositó": "F6",
             "Terem": "Földszint 6",
-            "TanárAzonosító": "NAS"
+            "TanárAzonosító":"NAS",
+            "TeljesNév": "Nádori Sándor" 
         }
     ],
 
