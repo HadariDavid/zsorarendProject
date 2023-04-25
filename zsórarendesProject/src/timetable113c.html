@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>próba</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+<body onload="load()">
+    
+    <div id = "container" class = "container-fluid" >
+        <nav>
+            <ul id="menUl" class="nav justify-content-center customnav">
+                <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="#">Beugró</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Órarendek</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Órarend hozzáadása</a>
+                </li>
+              </ul>        
+        </nav>
+
+
+        <div id="TableDiv" class="table-responsive-sm">
+
+            <table id="Táblázat" class="table-bordered">
+                <tbody id="Tbody">
+                <tr>
+                    <th>Óra</th>
+                    <th>Hétfő</th>
+                    <th>Kedd</th>
+                    <th>Szerda</th>
+                    <th>Csütörtök</th>
+                    <th>Péntek</th>
+                </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+
+    <script src="./js/timetable.js" ></script>
+
+</body>
+</html>
