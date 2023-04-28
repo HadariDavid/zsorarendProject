@@ -8,7 +8,7 @@
  //Json adatainak megszerzése
     //megszerezzük a json file tartalmát
     async function orarend() {
-        const response = await fetch("./json/orarend.json");
+        const response = await fetch("./json/szak113c.json");
         var orarend = await response.json();
         console.log(orarend.Hétfő[1].Tantárgy); // mükszik
         
@@ -111,6 +111,7 @@
     }   
 
     //adatok megszerzése az órarend készítéséhez tartalmazza az órarend alap elemeit
+    //későbiekben lesz lényeges
     async function orarendAlapAdatok(){
         const response2 = await fetch("./json/orarendkeszito.json");
         var orarendAdatok = await response2.json();
